@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jean-Noel VEGA (@jeannoelvega)
-- 👀 I’m interested in Windows / Linux / Android
-- 🌱 I’m currently learning to use Git and Github and Python
+- 👀 I’m interested in Windows / Linux / AWS
+- 🌱 I’m currently learning how to optimize my job's search
 - 💞️ I’m looking to collaborate on ...well i don't known
 - 📫 How to reach me ... by e-mail at jeannoel.vega@gmail.com
 - And I am French so excuse my english !
